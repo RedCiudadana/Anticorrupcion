@@ -1,7 +1,8 @@
 ---
 title: Tecnologías Emergentes
 image: /assets/cms/td-50.png
-description: Incorporamos IA, blockchain y más, para transformar la administración pública.
+description: Adoptamos tecnologías avanzadas para garantizar la integridad de
+  los procesos gubernamentales y detectar irregularidades.
 date: 2024-03-19T15:07:52.536Z
 tiempo: 10 mins
 highlight: false
