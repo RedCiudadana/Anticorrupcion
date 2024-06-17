@@ -1,8 +1,8 @@
 ---
 title: Inteligencia Artificial para la Detección de Corrupción
 image: /assets/cms/p1.png
-description: Desarrollamos algoritmos de IA para identificar patrones de
-  corrupción y señales de alerta en los datos gubernamentales. 6. Recursos
+description: "Desarrollamos algoritmos de IA para identificar patrones de
+  corrupción y señales de alerta en los datos gubernamentales. "
 date: 2024-06-17T14:17:05.049Z
 highlight: false
 ---
